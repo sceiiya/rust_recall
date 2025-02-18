@@ -33,7 +33,13 @@ fn main() {
     println!("{}", inferred_type);
     // println!("{}",inferred_type);
     println!("{default_float}");
-    println!("{default_integer}");
+    println!("{default_integer}");   
+
+    march();
+}
+
+fn march () {
+    println!("make me proud :>")
 }
 
 
